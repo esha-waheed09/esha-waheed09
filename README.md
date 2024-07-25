@@ -1,4 +1,5 @@
-- Hi, I'm Eshaal Waheed, a student diving deep into the realms of Machine Learning and AI. My passion lies in transforming data into powerful insights and smart solutions.. Let's collaborate and push the boundaries of technology together!
+- Hi, I'm Eshaal Waheed, a student diving deep into the realms of Machine Learning and AI. My passion lies in transforming data into powerful insights and smart solutions.
+- Let's collaborate and push the boundaries of technology together!
 
 
 
